@@ -1,2 +1,1 @@
-# perinataljournal
-Nextjs, TypeScript, Redux, Tailwind CSS
+# My Portfolio Project
